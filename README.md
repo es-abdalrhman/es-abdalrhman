@@ -10,7 +10,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+I'm+Abdalrhman+Magdy!;I'm+a+software+engineer;Welcome+to+my+profile!" style="color:mix" />
 </p>
+- 👋 Hi, I'm Abdalrhman Magdy, a student at the Faculty of Engineering, Alexandria University, majoring in Computer and Systems Engineering.
+- 👀 I'm interested in software engineering, with a particular focus on cybersecurity.
 
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
 
 ### Languages and Tools 🛠 : 
 ![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat-square&logo=java&logoColor=ffffff)
@@ -26,11 +31,6 @@
 
 
 
-- 👋 Hi, I’m @es-abdalrhman
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 es-abdalrhman/es-abdalrhman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
