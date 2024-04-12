@@ -22,14 +22,14 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Moaz2025&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=es-abdalrhman&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Moaz2025&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=es-abdalrhman&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Moaz2025&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=es-abdalrhman&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -37,7 +37,7 @@
 
 ### <p align="center">Visitor counter<p>
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/Moaz2025/count.svg" />
+  <img src="https://profile-counter.glitch.me/es-abdalrhman/count.svg" />
 </p>
 <!---
 es-abdalrhman/es-abdalrhman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
