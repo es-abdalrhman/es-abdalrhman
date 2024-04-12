@@ -11,7 +11,8 @@
 
 ### Connect with Me 📫
 
-- 📧 Email: [abdalrhman0000002020@gmail.com](mailto:abdalrhman0000002020@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdalrhman0000002020@gmail.com)
+
 
 ### Languages and Tools 🛠
 
