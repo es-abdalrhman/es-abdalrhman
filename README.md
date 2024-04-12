@@ -10,10 +10,9 @@
 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-📫 Connect with me:
+📫 Connect with me: 
   <a href="mailto:abdalrhman0000002020@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-abdalrhman0000002020@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 
 ### Languages and Tools 🛠 : 
