@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Hello ^_^ </h1>
+<h1 align="center">Hello ^_^ </h1>
 
 
 
