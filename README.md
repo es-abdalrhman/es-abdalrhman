@@ -1,8 +1,6 @@
 <h1 align="center">🚀 Hello ^_^ </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+I'm+Abdalrhman+Magdy!;I'm+a+software+engineer;Welcome+to+my+profile!" style="color:mix" />
-</p>
+
 
 ### About Me ℹ️
 
